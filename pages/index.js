@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Dr.Jogi's" />
         <p className="description"> 
-        Order <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri for New Mothers</code></a>
+        <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri for New Mothers</code></a>
         </p>
         <p className="description"> 
         Follow us <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>@drjogis</code></a>
