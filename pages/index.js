@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Dr.Jogi's" />
         <p className="description">
-          <code>Desi Panjiri     देसी पंजीरी    ਦੇਸੀ ਪੰਜੀਰੀ    دیسی پنجیری</code>
+          <code>Desi Panjiri     देसी पंजीरी    ਦੇਸੀ ਪੰਜੀਰੀ    دیسی پنجیری</code><br>
     Follow us <code>@drjogis</code>
         </p>
       </main>
