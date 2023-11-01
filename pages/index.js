@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Dr. Jogi's" />
+        <Header title="Welcome to Dr.Jogi's" />
         <p className="description">
           Follow us <code>@drjogis</code>
         </p>
