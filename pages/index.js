@@ -16,7 +16,7 @@ export default function Home() {
         <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri for New Mothers</code></a>
         </p>
         <p className="description"> 
-        Follow us <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>@drjogis</code></a>
+        <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>@drjogis</code></a>
         </p>
       </main>
 
