@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Dr.Jogi's" />
+        <Header title="Dr.Jogi's" />
         <p className="description"> 
         Order <code>Dr. Jogi's Desi Panjiri for New Mothers</code>
         </p>
