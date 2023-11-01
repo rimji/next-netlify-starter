@@ -16,7 +16,7 @@ export default function Home() {
         Order <code>Dr. Jogi's Desi Panjiri for New Mothers</code>
         </p>
         <p className="description"> 
-        Follow us <a href="https://www.instagram.com/drjogis/"><code>@drjogis</code></a>
+        Follow us <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>@drjogis</code></a>
         </p>
       </main>
 
