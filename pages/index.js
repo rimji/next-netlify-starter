@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="/logo2-drjogis.png" alt="Dr.Jogi's" className={styles.logo} />
+        <Header title="Dr.Jogi's" />
         <p className="description"> 
         <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri for New Mothers</code></a>
         </p>
