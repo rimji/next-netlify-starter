@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="DR.JOGI'S" />
+        <Header title="Dr.Jogi's" />
         <p className="description"> 
         <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri for New Mothers</code></a>
         </p>
