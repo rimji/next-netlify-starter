@@ -17,10 +17,11 @@ export default function Home() {
         </p>
       </main>
 
-      <Footer />
         <p className="description"> 
         <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>instagram</code></a>
         </p>
+      <Footer />
+        <code>&copy; 2023 Dr.Jogi's</code>
     </div>
   )
 }
