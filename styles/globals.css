@@ -31,7 +31,6 @@ code {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: start;
 }
 
 a:link { text-decoration: none; }
