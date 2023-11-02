@@ -21,6 +21,9 @@ export default function Home() {
       </main>
 
       <Footer />
+    <p className="description"> 
+        <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>instagram</code></a>
+        </p>
     </div>
   )
 }
