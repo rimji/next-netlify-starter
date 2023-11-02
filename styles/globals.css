@@ -16,7 +16,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: start;
+  align-items: center;
 }
 
 code {
@@ -31,7 +31,7 @@ code {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: start;
 }
 
 a:link { text-decoration: none; }
