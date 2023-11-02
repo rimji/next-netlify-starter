@@ -15,13 +15,10 @@ export default function Home() {
         <p className="description"> 
         <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri for New Mothers</code></a>
         </p>
-        <p className="description"> 
-        <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>@drjogis</code></a>
-        </p>
       </main>
 
       <Footer />
-    <p className="description"> 
+        <p className="description"> 
         <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>instagram</code></a>
         </p>
     </div>
