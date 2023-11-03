@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <img src="/logosmall2-drjogis.png" alt="Dr.Jogi's" className={styles.logo} />
         <p class="thick"> 
         Dr.Jogi's
         </p>
