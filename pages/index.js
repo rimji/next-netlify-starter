@@ -21,7 +21,7 @@ export default function Home() {
 
   
       <Footer />
-       &copy;2023 Dr.Jogi's
+       &copy; Dr.Jogi's
     </div>
   )
 }
