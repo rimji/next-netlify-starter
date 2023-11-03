@@ -18,7 +18,7 @@ export default function Home() {
       </main>
 
       <Footer />
-        <code>&copy; 2023 Dr.Jogi's</code>
+        <code>&copy; Dr.Jogi's</code>
     </div>
   )
 }
