@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <p className="description"> 
+        <p class="thick"> 
         DR.JOGI'S
         </p>
         <p className="description"> 
