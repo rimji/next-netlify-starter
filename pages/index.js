@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Dr.Jogi's" />
         <p className="description"> 
         <code>DR.JOGI'S</code>
         </p>
