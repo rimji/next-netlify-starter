@@ -20,7 +20,7 @@ export default function Home() {
       </main>
 
       <Footer />
-        <code>&copy; Dr.Jogi's</code>
+        &copy; Dr.Jogi's
     </div>
   )
 }
