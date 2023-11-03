@@ -46,4 +46,5 @@ a:active { text-decoration: none; }
 
 p.thick {
   font-weight: bold;
+  font-size: 30px;
 }
