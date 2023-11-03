@@ -20,7 +20,7 @@ export default function Home() {
       </main>
 
       <Footer />
-       &copy; 2023
+       &copy;2023
     </div>
   )
 }
