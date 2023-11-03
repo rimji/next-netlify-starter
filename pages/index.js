@@ -11,13 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="/logosmall2-drjogis.png" alt="Dr.Jogi's" />
         <p class="thick"> 
         Dr.Jogi's
         </p>
         <p className="description"> 
         <code>Desi Panjiri</code>
         </p>
+        <img src="/logosmall2-drjogis.png" alt="Dr.Jogi's" />
       </main>
 
         <p className="description"> 
