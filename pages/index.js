@@ -15,7 +15,7 @@ export default function Home() {
         Dr.Jogi's
         </p>
         <p className="description"> 
-        <a href="https://www.instagram.com/drjogis" target="_blank" rel="noopener noreferrer"><code>Desi Panjiri</code></a>
+        <code>Desi Panjiri</code>
         </p>
       </main>
 
