@@ -17,8 +17,6 @@ export default function Home() {
         <p className="description"> 
         <code>
         Desi Panjiri
-        <p>This is the first sentence.</p>
-        <p>This is the second sentence.</p>
         </code>
         </p>
       </main>
