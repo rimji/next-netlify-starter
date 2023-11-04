@@ -15,7 +15,11 @@ export default function Home() {
         Dr.Jogi's
         </p>
         <p className="description"> 
-        <code>Desi Panjiri</code>
+        <code>
+        Desi Panjiri
+        <p>This is the first sentence.</p>
+        <p>This is the second sentence.</p>
+        </code>
         </p>
       </main>
 
