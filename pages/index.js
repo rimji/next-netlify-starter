@@ -16,7 +16,7 @@ export default function Home() {
         </p>
         <p className="description"> 
         <code>
-        Desi Panjiri
+        Panjiri
         </code>
         </p>
       </main>
