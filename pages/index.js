@@ -13,7 +13,6 @@ export default function Home() {
       <main>
         <p class="thick"> 
         Dr.Jogi's
-        <img src="/logo1.png" alt="Dr.Jogi's" />
         </p>
         <p className="description"> 
         <code>
