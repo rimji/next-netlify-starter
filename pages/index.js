@@ -16,7 +16,7 @@ export default function Home() {
         </p>
         <p className="description"> 
         <code>
-        Panjiri \n New Line
+        Panjiri
         </code>
         </p>
       </main>
