@@ -48,3 +48,9 @@ p.thick {
   font-weight: 900;
   font-size: 20px;
 }
+
+p.logoi {
+  height: 3em;
+  margin: 5px;
+  width: 30%;
+}
