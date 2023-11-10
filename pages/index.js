@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <p class="thick"> 
-        <img src="/logo311-drjogis.png" alt="Dr.Jogi's" className={styles.logoi} />
+        <img src="/logo311-drjogis.png" alt="Dr.Jogi's" className={styles.logo} />
         </p>
         <p className="description"> 
         <code>
