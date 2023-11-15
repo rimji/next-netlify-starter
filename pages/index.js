@@ -16,7 +16,7 @@ export default function Home() {
         </p>
         <p className="description"> 
         <code>
-        All Natural
+        All Natural 🌿
         </code>
         </p>
       </main>
