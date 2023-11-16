@@ -15,7 +15,7 @@ export default function Home() {
         Dr.Jogi's
         </p>
         <p className="description"> 
-        All Natural 🌿
+        All Natural
         </p>
       </main>
 
